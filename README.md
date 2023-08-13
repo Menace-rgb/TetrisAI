@@ -1,6 +1,6 @@
 # TetrisAI
 This project is an implementation of the classic game of Tetris, but the twist is it is played by an AI-algorithm. This AI has been trained to make strategic decisions for placing and rotating falling tetrominos in order to clear lines and achieve the highest score possible.
-## Featues:
+## Features:
 - Classic Tetris gameplay experiencee
 - AI-driven decision making for tetromino placement.
 - Real-time visualization of the AI gameplay
